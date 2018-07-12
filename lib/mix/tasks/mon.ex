@@ -1,6 +1,6 @@
-defmodule Mix.Tasks.Avito do
+defmodule Mix.Tasks.Mon do
   use Mix.Task
-  use Avito
+  use ImportMonitor
 
   @shortdoc "Simply runs the import on BMW from Avito"
   def run(_) do

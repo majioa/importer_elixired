@@ -4,6 +4,14 @@
 
 ## Installation
 
+### Requirements
+
+1. Elixir compiler, and mix package manager
+
+2. Rust compiler, and cargo package manager
+
+### 
+
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
 by adding `avito` to your list of dependencies in `mix.exs`:
 
